@@ -1,1 +1,2 @@
-mkdir examenm5uf2 mkdir DOCS nano EXAMENv1.TXT
+mkdir examenm5uf2 | mkdir DOCS | nano EXAMENv1.TXT | git init | git remote add ElMeuRepositori https://github.com/Ai1or/examenm5uf2 
+| git status -s | git add . | git commit -m "Canvis exercici 1" | git push ElMeuRepositori
