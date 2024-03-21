@@ -1,1 +1,1 @@
-git checkout -b mywork | git add . 
+git checkout -b mywork | git add . | git commit -m "Canvis exercici 6" | git push ElMeuRepositori
