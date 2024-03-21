@@ -1,0 +1,9 @@
+git checkout master
+git commit -m "error canvis" (he hecho sin querer un cambio en la web y la creacion de EXAMENv7)
+git merge mywork
+git push ElMeuRepositori
+git branch -d mywork
+git push ElMeuRepositori --delete mywork
+git add .
+git commit -m "Canvis exercici 8"
+git push ElMeuRepositori
