@@ -1,0 +1,1 @@
+mkdir examenm5uf2 mkdir DOCS nano EXAMENv1.TXT
